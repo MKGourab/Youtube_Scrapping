@@ -14,15 +14,16 @@
 
 ### Homepage:
 
-
+<img width="959" alt="Homepage" src="https://github.com/MKGourab/youtube_scrapping/assets/104300031/caa68913-7a5d-4fec-8e0a-7e8a02244de7">
 
 ### Video Details:
 
-
+<img width="950" alt="video details" src="https://github.com/MKGourab/youtube_scrapping/assets/104300031/5707084c-c5a2-4487-8f87-bcb01f88fa04">
 
 ### Mongo DB:
 
-
+<img width="957" alt="Mongodb" src="https://github.com/MKGourab/youtube_scrapping/assets/104300031/41752d1f-f77e-463e-80c2-fe5ede449bb4">
 
 ### AWS Beanstalk Deployment:
 
+<img width="950" alt="AWS beanstalk Deployment" src="https://github.com/MKGourab/youtube_scrapping/assets/104300031/0e97404f-e938-4f7a-bb38-a075de8ab1ab">
