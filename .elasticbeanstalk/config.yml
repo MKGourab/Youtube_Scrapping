@@ -14,4 +14,4 @@ global:
   profile: eb-cli
   repository: origin
   sc: git
-  workspace_type: Application
+  workspace_type: application
