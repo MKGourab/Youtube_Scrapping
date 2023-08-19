@@ -34,7 +34,7 @@ project_root/
 ├── .elasticbeanstalk/
 │   └── config.yml          # Elastic Beanstalk configuration settings
 │
-├── application.py          # Application entry point (main script)
+├── application.py          # Flask Application 
 ├── build.py                # creates a connection to the YouTube Data API using an API key, facilitating interactions with the API                                   for retrieving channel and video details.
 ├── credentials.py          # Module for managing credentials (e.g., API keys)
 ├── mongo_op.py             # Module for uploading the retrieved data to MongoDB (Mongo operations)
