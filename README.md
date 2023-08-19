@@ -45,7 +45,7 @@ project_root/
 </pre>
 
 
-## Output as shown below.
+## Visual Overview
 
 ### Homepage:
 
