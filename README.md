@@ -1,4 +1,4 @@
-# YouTube Scraping Project Overview
+# YouTube Scraping API
 ## Overview
 
 The YouTube Scraping project utilizes the Google API Client to interact with the YouTube Data API. The script establishes a connection to the API using an API key, allowing for the extraction of channel and video details. The project provides a comprehensive solution for extracting and storing valuable information from YouTube.
